@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: "O Lord, the woman who had fallen into many sins, perceiving Thy divinity, fulfilled the part of a myrrh-bearer; and with lamentations she brought sweet-smelling oil of myrrh to Thee before Thy burial. 'Woe is me,' she said, 'for night surrounds me, dark and moonless, and stings my lustful passion with the love of sin. Accept the fountain of my tears, O Thou who drawest down from the clouds the waters of the sea. Incline to the groanings of my heart, O Thou who in Thine ineffable self-emptying hast bowed down the heavens. I shall kiss Thy most pure feet and wipe them with the hairs of my heads, those feet whose sound Eve heard at dusk in Paradise and hid herself for fear. Who can search out the multitude of my sins and the abyss of Thy judgments, O Saviour of my soul? Despise me not, Thine handmaiden, for Thou hast mercy without measure."
-datePublished: '2016-04-27T22:14:45.619Z'
-dateModified: '2016-04-27T22:13:46.010Z'
+description: 'O Lord, the woman who had fallen into many sins, perceiving Thy divinity, fulfilled the part of a myrrh-bearer; and with lamentations she brought sweet-smelling oil of myrrh to Thee before Thy burial.'
+datePublished: '2016-04-27T23:03:02.161Z'
+dateModified: '2016-04-27T23:02:52.892Z'
 title: ''
 author: []
 authors: []
@@ -22,7 +22,15 @@ url: the-hymn-of-st-kassiani/index.html
 _type: Article
 
 ---
-O Lord, the woman who had fallen into many sins, perceiving Thy divinity, fulfilled the part of a myrrh-bearer; and with lamentations she brought sweet-smelling oil of myrrh to Thee before Thy burial. 'Woe is me,' she said, 'for night surrounds me, dark and moonless, and stings my lustful passion with the love of sin. Accept the fountain of my tears, O Thou who drawest down from the clouds the waters of the sea. Incline to the groanings of my heart, O Thou who in Thine ineffable self-emptying hast bowed down the heavens. I shall kiss Thy most pure feet and wipe them with the hairs of my heads, those feet whose sound Eve heard at dusk in Paradise and hid herself for fear. Who can search out the multitude of my sins and the abyss of Thy judgments, O Saviour of my soul? Despise me not, Thine handmaiden, for Thou hast mercy without measure.
+O Lord, the woman who had fallen into many sins, perceiving Thy divinity, fulfilled the part of a myrrh-bearer; and with lamentations she brought sweet-smelling oil of myrrh to Thee before Thy burial.
+
+"Woe is me," she said, "for night surrounds me, dark and moonless, and stings my lustful passion with the love of sin. Accept the fountain of my tears, O Thou who drawest down from the clouds the waters of the sea. 
+
+"Incline to the groanings of my heart, O Thou who in Thine ineffable self-emptying hast bowed down the heavens. 
+
+"I shall kiss Thy most pure feet and wipe them with the hairs of my head, those feet whose sound Eve heard at dusk in Paradise and hid herself for fear. 
+
+"Who can search out the multitude of my sins and the abyss of Thy judgments, O Saviour of my soul? Despise me not, Thine handmaiden, for Thou hast mercy without measure."
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/812fd52f-062b-4627-b862-57213f89abde.jpg)
 
 St. Kassiane the Hymnographer was born between 805 and 810 in Constantinople into a wealthy family and grew to be exceptionally beautiful and intelligent. Three Byzantine chroniclers claim that she was a participant in the "bride show" (the means by which Byzantine princes/emperors sometimes chose a bride, giving a golden apple to his choice) organized for the young bachelor-emperor Theophilos. Smitten by Kassiane's beauty, the young emperor approached her and said: "Through a woman came forth the baser things," referring to the sin and suffering coming as a result of Eve's transgression. Kassiane promptly responded by saying: "And through a woman came forth the better things," referring to the hope of salvation resulting from the Incarnation through the Most Holy Theotokos. His pride wounded by Kassiane's rebuttal, Theophilos haughtily passed her by and chose another to be his wife. 
@@ -32,5 +40,7 @@ We next hear of Kassiane in 843 when it is recorded that she founded a convent i
 [Listen][0]
 
 Source: http://www.antiochian.org/hymn-st-kassiane
+
+•
 
 [0]: https://soundcloud.com/antiochian-archdiocese/hymn-of-st-kassiani
