@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[PosePonder]]></title>
-        <description><![CDATA[PosePonder]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Posed and Pondered]]></title>
+        <description><![CDATA[Posed and Pondered]]></description>
+        <link>https://thegrid.ai/poseponder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 21:55:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 22:14:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/poseponder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Hymn of St Kassiani]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/812fd52f-062b-4627-b862-57213f89abde.jpg">]]></description>
+            <link>https://thegrid.ai/poseponder/the-hymn-of-st-kassiani/index.html</link>
+            <guid isPermaLink="false">d7b1f086-353b-4075-8280-7e7edee4ebfa</guid>
+            <pubDate>Wed, 27 Apr 2016 22:14:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd8a12ab-34a4-4a04-9951-ee8dab7233f0.jpg">]]></description>
-            <link>undefinedi-have-long-dreamt-of-keeping-a-commonplace-book-this-will/index.html</link>
+            <link>https://thegrid.ai/poseponder/i-have-long-dreamt-of-keeping-a-commonplace-book-this-will/index.html</link>
             <guid isPermaLink="false">34195d32-e792-48e3-bbdb-0cbfa2906707</guid>
             <pubDate>Wed, 27 Apr 2016 21:54:53 GMT</pubDate>
         </item>
