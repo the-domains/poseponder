@@ -4,8 +4,15 @@
         <description><![CDATA[Posed and Pondered]]></description>
         <link>https://thegrid.ai/poseponder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 23:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 23:32:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poseponder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jirisan]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9102413-5c85-4e89-ae4a-d13f9347d5a0.jpg" alt="" title="" />]]></description>
+            <link>https://thegrid.ai/poseponder/852c9994-ac51-4240-b338-6aaa938f880f/index.html</link>
+            <guid isPermaLink="false">852c9994-ac51-4240-b338-6aaa938f880f</guid>
+            <pubDate>Wed, 27 Apr 2016 23:31:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ancient Chinese Thought Meets Modern Science]]></title>
             <description><![CDATA[<p>I recently completed both parts of this excellent edX course taught byProfessor Edward Slingerlandof the University of British Columbia.</p>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/poseponder/i-have-long-dreamt-of-keeping-a-commonplace-book-this-will/index.html</link>
             <guid isPermaLink="false">34195d32-e792-48e3-bbdb-0cbfa2906707</guid>
             <pubDate>Wed, 27 Apr 2016 22:58:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Jirisan]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b9102413-5c85-4e89-ae4a-d13f9347d5a0.jpg">]]></description>
-            <link>https://thegrid.ai/poseponder/852c9994-ac51-4240-b338-6aaa938f880f/index.html</link>
-            <guid isPermaLink="false">852c9994-ac51-4240-b338-6aaa938f880f</guid>
-            <pubDate>Wed, 27 Apr 2016 22:57:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
