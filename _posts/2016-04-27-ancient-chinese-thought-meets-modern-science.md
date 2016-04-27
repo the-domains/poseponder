@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I recently completed both parts of this excellent edX course taught byProfessor Edward Slingerlandof the University of British Columbia.
-datePublished: '2016-04-27T22:41:35.647Z'
-dateModified: '2016-04-27T22:41:15.028Z'
+datePublished: '2016-04-27T23:03:23.841Z'
+dateModified: '2016-04-27T22:41:37.618Z'
 title: ''
 author: []
 authors: []
@@ -26,9 +26,9 @@ _type: Article
 
 I recently completed both parts of this excellent edX course taught by[Professor Edward Slingerland][0]of the University of British Columbia.
 
-Chinese Thought: Ancient Wisdom Meets Modern Science
+_Chinese Thought: Ancient Wisdom Meets Modern Science_
 
-* [Part 1][1]- covers Confucius, Daoism, Mohism
+* [Part 1][1] - covers Confucius, Daoism, Mohism
 
 * [Part 2][2] - covers Mencius, Zhuangzi, Xunzi
 
