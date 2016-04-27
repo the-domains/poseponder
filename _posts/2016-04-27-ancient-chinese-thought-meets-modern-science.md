@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I recently completed both parts of this excellent edX course taught by Professor Edward Slingerland of the University of British Columbia.
-datePublished: '2016-04-27T22:27:21.341Z'
-dateModified: '2016-04-27T22:27:00.377Z'
+datePublished: '2016-04-27T22:29:19.363Z'
+dateModified: '2016-04-27T22:29:17.530Z'
 title: ''
 author: []
 authors: []
@@ -22,8 +22,9 @@ url: ancient-chinese-thought-meets-modern-science/index.html
 _type: Article
 
 ---
-I recently completed both parts of this excellent edX course taught by [Professor Edward Slingerland][0] of the University of British Columbia.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6bf0ce65-e1b1-46b4-8f83-185a2c88f19f.jpg)
+
+I recently completed both parts of this excellent edX course taught by [Professor Edward Slingerland][0] of the University of British Columbia.
 
 Chinese Thought: Ancient Wisdom Meets Modern Science
 
