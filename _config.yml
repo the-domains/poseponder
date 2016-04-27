@@ -23,7 +23,7 @@ color:
     - '#cabba5'
     - '#6c8785'
   brandStrength: 0.6249031233601272
-  lightness: 0.8507167720235884
+  lightness: 0.5
   saturation: 0.4372909739613533
-  rhythmicContrast: 0.5074303788132966
+  rhythmicContrast: 0.75
 purpose: []
