@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I recently completed both parts of this excellent edX course taught by Professor Edward Slingerland of the University of British Columbia.
-datePublished: '2016-04-27T23:35:30.582Z'
-dateModified: '2016-04-27T23:35:17.726Z'
+datePublished: '2016-04-27T23:36:49.466Z'
+dateModified: '2016-04-27T23:35:36.189Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-ancient-chinese-thought-meets-modern-science.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-ancient-chinese-thought-meets-modern-science.md
-published: true
 url: ancient-chinese-thought-meets-modern-science/index.html
 _type: Article
 
