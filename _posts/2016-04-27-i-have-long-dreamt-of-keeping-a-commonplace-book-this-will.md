@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I have long dreamt of keeping a commonplace book. This will be an attempt at one. I will pose things and ponder them.
-datePublished: '2016-04-27T22:40:19.806Z'
-dateModified: '2016-04-27T21:54:59.916Z'
+datePublished: '2016-04-27T22:58:19.126Z'
+dateModified: '2016-04-27T22:40:25.272Z'
 title: ''
 author: []
 authors: []
