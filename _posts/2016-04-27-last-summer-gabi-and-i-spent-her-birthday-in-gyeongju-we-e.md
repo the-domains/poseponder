@@ -5,16 +5,16 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Last summer, Gabi and I spent her birthday in Gyeongju. We especially enjoy Tumuli Park. The giant hills are tombs of Silla kings, queens, and noblemen.'
-datePublished: '2016-04-27T22:45:35.547Z'
-dateModified: '2016-04-27T22:45:17.847Z'
+datePublished: '2016-04-27T22:58:42.162Z'
+dateModified: '2016-04-27T22:45:38.891Z'
+title: ''
+author: []
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
 starred: false
 sourcePath: _posts/2016-04-27-last-summer-gabi-and-i-spent-her-birthday-in-gyeongju-we-e.md
 published: true
