@@ -4,8 +4,15 @@
         <description><![CDATA[Posed and Pondered]]></description>
         <link>https://thegrid.ai/poseponder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 22:30:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 22:40:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poseponder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd8a12ab-34a4-4a04-9951-ee8dab7233f0.jpg">]]></description>
+            <link>https://thegrid.ai/poseponder/i-have-long-dreamt-of-keeping-a-commonplace-book-this-will/index.html</link>
+            <guid isPermaLink="false">34195d32-e792-48e3-bbdb-0cbfa2906707</guid>
+            <pubDate>Wed, 27 Apr 2016 22:40:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ancient Chinese Thought Meets Modern Science]]></title>
             <description><![CDATA[<p>I recently completed both parts of this excellent edX course taught by Professor Edward Slingerland of the University of British Columbia.</p>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/poseponder/the-hymn-of-st-kassiani/index.html</link>
             <guid isPermaLink="false">d7b1f086-353b-4075-8280-7e7edee4ebfa</guid>
             <pubDate>Wed, 27 Apr 2016 22:14:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dd8a12ab-34a4-4a04-9951-ee8dab7233f0.jpg">]]></description>
-            <link>https://thegrid.ai/poseponder/i-have-long-dreamt-of-keeping-a-commonplace-book-this-will/index.html</link>
-            <guid isPermaLink="false">34195d32-e792-48e3-bbdb-0cbfa2906707</guid>
-            <pubDate>Wed, 27 Apr 2016 21:54:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
