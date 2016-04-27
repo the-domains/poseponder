@@ -4,8 +4,15 @@
         <description><![CDATA[Posed and Pondered]]></description>
         <link>https://thegrid.ai/poseponder/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 23:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2016 23:03:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/poseponder/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ancient Chinese Thought Meets Modern Science]]></title>
+            <description><![CDATA[<p>I recently completed both parts of this excellent edX course taught byProfessor Edward Slingerlandof the University of British Columbia.</p>]]></description>
+            <link>https://thegrid.ai/poseponder/ancient-chinese-thought-meets-modern-science/index.html</link>
+            <guid isPermaLink="false">5d1d4712-95b2-426d-82b2-6e1c05618340</guid>
+            <pubDate>Wed, 27 Apr 2016 23:03:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Hymn of St Kassiani]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/812fd52f-062b-4627-b862-57213f89abde.jpg">]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/poseponder/852c9994-ac51-4240-b338-6aaa938f880f/index.html</link>
             <guid isPermaLink="false">852c9994-ac51-4240-b338-6aaa938f880f</guid>
             <pubDate>Wed, 27 Apr 2016 22:57:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ancient Chinese Thought Meets Modern Science]]></title>
-            <description><![CDATA[<p>I recently completed both parts of this excellent edX course taught byProfessor Edward Slingerlandof the University of British Columbia.</p>]]></description>
-            <link>https://thegrid.ai/poseponder/ancient-chinese-thought-meets-modern-science/index.html</link>
-            <guid isPermaLink="false">5d1d4712-95b2-426d-82b2-6e1c05618340</guid>
-            <pubDate>Wed, 27 Apr 2016 22:41:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
