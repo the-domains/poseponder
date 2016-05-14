@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'O Lord, the woman who had fallen into many sins, perceiving Thy divinity, fulfilled the part of a myrrh-bearer; and with lamentations she brought sweet-smelling oil of myrrh to Thee before Thy burial.'
-datePublished: '2016-04-27T23:38:29.192Z'
-dateModified: '2016-04-27T23:38:17.077Z'
+datePublished: '2016-05-14T19:41:29.354Z'
+dateModified: '2016-04-27T23:38:37.315Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-27-the-hymn-of-st-kassiani.md
-published: true
 authors: []
 publisher:
   name: null
