@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: I have long dreamt of keeping a commonplace book. This will be an attempt at one. I will pose things and ponder them. •
-datePublished: '2016-04-27T23:34:19.700Z'
-dateModified: '2016-04-27T23:09:55.260Z'
+datePublished: '2016-05-14T19:44:03.755Z'
+dateModified: '2016-04-27T23:34:24.135Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-i-have-long-dreamt-of-keeping-a-commonplace-book-this-will.md
 authors: []
 publisher:
   name: null
@@ -16,8 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-04-27-i-have-long-dreamt-of-keeping-a-commonplace-book-this-will.md
-published: true
 url: i-have-long-dreamt-of-keeping-a-commonplace-book-this-will/index.html
 _type: Article
 
